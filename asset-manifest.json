@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MestriRahulgithub/mytodo.git/static/css/main.d50124f2.css",
+    "main.js": "/MestriRahulgithub/mytodo.git/static/js/main.1273e8af.js",
+    "static/js/845.436f860b.chunk.js": "/MestriRahulgithub/mytodo.git/static/js/845.436f860b.chunk.js",
+    "index.html": "/MestriRahulgithub/mytodo.git/index.html",
+    "main.d50124f2.css.map": "/MestriRahulgithub/mytodo.git/static/css/main.d50124f2.css.map",
+    "main.1273e8af.js.map": "/MestriRahulgithub/mytodo.git/static/js/main.1273e8af.js.map",
+    "845.436f860b.chunk.js.map": "/MestriRahulgithub/mytodo.git/static/js/845.436f860b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d50124f2.css",
+    "static/js/main.1273e8af.js"
+  ]
+}
