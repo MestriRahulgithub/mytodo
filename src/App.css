@@ -1,4 +1,4 @@
-.App {
+/* /* .App {
   text-align: center;
 }
 
@@ -35,4 +35,78 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* * {
+  font-family: montserrat;
 }
+
+body {
+  background: white; /* Light blue background color */
+  /* TodoList.css */
+
+/* App.css */
+
+/* Your existing styles */
+
+/* Custom styles for buttons */
+/* App.css */
+
+
+
+/* Your existing styles */
+
+body {
+  background: linear-gradient(to bottom, #114357, #f29492);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: white;
+}
+
+/* Custom styles for buttons */
+button {
+  background-color: purple;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+/* Additional style for the 'Add Todo' button */
+button[type="submit"] {
+  background-color: green;
+}
+
+/* Add more styles as needed */
+
+/* Media query for screens smaller than 600px */
+@media screen and (max-width: 600px) {
+  body {
+    background: linear-gradient(to bottom, #114357, #f29492);
+  }
+
+  /* Additional styles for smaller screens */
+  .App {
+    text-align: center; /* Example: Change text alignment for smaller screens */
+  }
+
+  h1 {
+    font-size: 18px; /* Example: Adjust font size for smaller screens */
+  }
+
+  /* Add more styles for smaller screens as needed */
+}
+
+
